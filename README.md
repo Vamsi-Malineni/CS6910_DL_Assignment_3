@@ -1,13 +1,13 @@
-# CS6910-Assignment-3 : Recurrent Neural network to build a transliteration system
-Assignment 3 submission for the course CS6910 Fundamentals of Deep Learning. <br>
-Check this link for the task description: [Assignment link](https://wandb.ai/miteshk/assignments/reports/Assignment-3--Vmlldzo0NjQwMDc)
+# Recurrent Neural network to build a transliteration system
+Course Project submission for the course CS6910 Fundamentals of Deep Learning. <br>
+Check this link for the task description: [Problem Statement link](https://wandb.ai/miteshk/assignments/reports/Assignment-3--Vmlldzo0NjQwMDc)
 
 
 Team Members : **Vamsi Sai Krishna Malineni (OE20S302)**, **Mohammed Safi Ur Rahman Khan (CS21M035)** 
 
 ---
 ## Overview :
-The purpose of this assignment were :
+The purpose of this course project are :
 1. Building a transliteration system using Recurrent Neural Networks.
 2. Comparing different cells such as vanilla RNN, LSTM and GRU. 
 3. Implementing attention mechanism and understand how these overcome the limitations of vanilla seq2seq models.
@@ -22,7 +22,7 @@ The link to the wandb report:
 ```python 
 pip install -r requirements.txt
 ```
-2. The solution to the assignment is presented in the following notebooks :
+2. The  is presented in the following notebooks :
     1. `RNN.ipynb` : This notebook corresponds to training an Seq2Seq Model without attention
     2. `RNN_with_Attention.ipynb` : This notebook corresponds to training an Seq2Seq Model with attention, visualizing the connectivity and plotting the attention maps
     3. `Lyrics_Generation.ipynb` : This notebook corresponds to training GPT2 transformer model for lyrics generation
