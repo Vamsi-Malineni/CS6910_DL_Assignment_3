@@ -1,6 +1,7 @@
 # Recurrent Neural network to build a transliteration system
 Course Project submission for the course CS6910 Fundamentals of Deep Learning. <br>
-Check this link for the task description: [Problem Statement link](https://wandb.ai/miteshk/assignments/reports/Assignment-3--Vmlldzo0NjQwMDc)
+Check this link for the task description: [Problem Statement link](https://wandb.ai/miteshk/assignments/reports/Assignment-3--Vmlldzo0NjQwMDc) <br>
+Check this link for the report : [Report link](https://wandb.ai/safikhan/Assignment%203/reports/Assignment-3--VmlldzoxOTY1Mjg1)
 
 
 Team Members : **Vamsi Sai Krishna Malineni (OE20S302)**, **Mohammed Safi Ur Rahman Khan (CS21M035)** 
